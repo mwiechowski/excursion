@@ -41,10 +41,17 @@ p {
 }
 
 #campsite {
-    margin-top: 50px;
+    margin-top: 25px;
 }
 
 footer {
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
+}
+
+#copyright {
+    text-align: right;
+    margin-right: 25px;
+    margin-top: 25px;
+    color: gray;
 }
