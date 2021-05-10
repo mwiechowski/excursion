@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+}
+
+html {
+    background-color: black;
+}
+
+header {
+    text-align: center;
+}
+
+#titletext {
+    color: white;
+    font-size: 50px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
